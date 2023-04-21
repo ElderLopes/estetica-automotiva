@@ -222,7 +222,8 @@ body {
   padding: 60px;
   font-size: 20px;
 }
-.imgContato{
+
+.imgContato {
   width: 50px;
   margin-right: 20px;
   background: none;
@@ -232,18 +233,21 @@ body {
   margin-bottom: 25px;
 
 }
-.divLocalização{
+
+.divLocalização {
   text-align: center;
   color: white;
-  padding: 60px;  
+  padding: 60px;
   font-size: 20px;
 
 }
-#iframeLocalização{
+
+#iframeLocalização {
   margin: 20px;
 
   border-radius: 20px;
 }
+
 .link-container {
   position: fixed;
   bottom: 20px;
